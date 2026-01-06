@@ -29,11 +29,10 @@ Start here:
 - [FAQ](faq.md)
 
 ## PDF manuals
-- [Installation (PDF)](../pdf/en/INSTALL_ENG.pdf)
-- [HowTo (PDF)](../pdf/en/HOWTO_ENG.pdf)
-- [Features (PDF)](../pdf/en/FEATURES_ENG.pdf)
-- [Hardware (PDF)](../pdf/en/HARDWARE_ENG.pdf)
-- [Multi-network (PDF)](../pdf/en/MULTI-NET_ENG.pdf)
-- [API (PDF)](../pdf/en/API_EN.pdf)
-- [SRT → UDP/RTP for cable headends (PDF)](../pdf/en/SRT_to_UDP-RTP_for_cable_headends_ENG.pdf)
-
+- [Installation (PDF)](../../pdf/en/INSTALL_ENG.pdf)
+- [HowTo (PDF)](../../pdf/en/HOWTO_ENG.pdf)
+- [Features (PDF)](../../pdf/en/FEATURES_ENG.pdf)
+- [Hardware (PDF)](../../pdf/en/HARDWARE_ENG.pdf)
+- [Multi-network (PDF)](../../pdf/en/MULTI-NET_ENG.pdf)
+- [API (PDF)](../../pdf/en/API_EN.pdf)
+- [SRT → UDP/RTP for cable headends (PDF)](../../pdf/en/SRT_to_UDP-RTP_for_cable_headends_ENG.pdf)
