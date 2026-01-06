@@ -29,10 +29,10 @@ Empieza aquí:
 - [FAQ](faq.md)
 
 ## Manuales en PDF
-- [Instalación (PDF)](../pdf/es/INSTALL_SPA.pdf)
-- [HowTo (PDF)](../pdf/es/HOWTO_SPA.pdf)
-- [Características (PDF)](../pdf/es/FEATURES_SPA.pdf)
-- [Hardware (PDF)](../pdf/es/HARDWARE_SPA.pdf)
-- [Multired (PDF)](../pdf/es/MULTI-NET_SPA.pdf)
-- [API (PDF)](../pdf/es/API_ES.pdf)
-- [SRT → UDP/RTP para cabeceras (PDF)](../pdf/es/SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)
+- [Instalación (PDF)](../../pdf/es/INSTALL_SPA.pdf)
+- [HowTo (PDF)](../../pdf/es/HOWTO_SPA.pdf)
+- [Características (PDF)](../../pdf/es/FEATURES_SPA.pdf)
+- [Hardware (PDF)](../../pdf/es/HARDWARE_SPA.pdf)
+- [Multired (PDF)](../../pdf/es/MULTI-NET_SPA.pdf)
+- [API (PDF)](../../pdf/es/API_ES.pdf)
+- [SRT → UDP/RTP para cabeceras (PDF)](../../pdf/es/SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)
