@@ -4,7 +4,7 @@ Empieza aquí:
 
 ## Primeros pasos
 - [Visión general](overview.md)
-- [Instalación (ISO)](install.md)
+- [Instalación (guía corta / ISO)](install.md)
 - [Inicio rápido](quickstart.md)
 
 ## Temas clave
@@ -28,11 +28,24 @@ Empieza aquí:
 - [Troubleshooting](troubleshooting.md)
 - [FAQ](faq.md)
 
-## Manuales en PDF
-- [Instalación (PDF)](../../pdf/es/INSTALL_SPA.pdf)
-- [HowTo (PDF)](../../pdf/es/HOWTO_SPA.pdf)
-- [Características (PDF)](../../pdf/es/FEATURES_SPA.pdf)
-- [Hardware (PDF)](../../pdf/es/HARDWARE_SPA.pdf)
-- [Multired (PDF)](../../pdf/es/MULTI-NET_SPA.pdf)
-- [API (PDF)](../../pdf/es/API_ES.pdf)
-- [SRT → UDP/RTP para cabeceras (PDF)](../../pdf/es/SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)
+## Manuales completos
+- [Índice de manuales completos (MD)](manuales/md/index.md)
+- [Carpeta de PDFs](manuales/pdf/)
+
+### Markdown (IA-friendly)
+- [Instalación (manual completo, MD)](manuales/md/installacion.md)
+- [HowTo (manual completo, MD)](manuales/md/howto.md)
+- [Características (manual completo, MD)](manuales/md/features.md)
+- [Hardware (manual completo, MD)](manuales/md/hardware.md)
+- [Multi-net (manual completo, MD)](manuales/md/multi-net.md)
+- [API REST (manual completo, MD)](manuales/md/api-rest.md)
+- [SRT → UDP/RTP para cabeceras (manual completo, MD)](manuales/md/srt-to-udp-rtp-cable-headends.md)
+
+### PDF (original)
+- [Instalación (PDF)](manuales/pdf/INSTALL_SPA.pdf)
+- [HowTo (PDF)](manuales/pdf/HOWTO_SPA.pdf)
+- [Características (PDF)](manuales/pdf/FEATURES_SPA.pdf)
+- [Hardware (PDF)](manuales/pdf/HARDWARE_SPA.pdf)
+- [Multi-net (PDF)](manuales/pdf/MULTI-NET_SPA.pdf)
+- [API (PDF)](manuales/pdf/API_ES.pdf)
+- [SRT → UDP/RTP (PDF)](manuales/pdf/SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)
