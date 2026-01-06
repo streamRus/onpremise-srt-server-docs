@@ -7,3 +7,7 @@
 ## Quick links
 - English: [Quickstart](en/quickstart.md) · [Installation](en/install.md) · [Troubleshooting](en/troubleshooting.md)
 - Español: [Inicio rápido](es/quickstart.md) · [Instalación](es/install.md) · [Troubleshooting](es/troubleshooting.md)
+
+## PDF manuals
+- 🇬🇧 [Installation PDF](../pdf/en/INSTALL_ENG.pdf)
+- 🇪🇸 [Instalación PDF](../pdf/es/INSTALL_SPA.pdf)
