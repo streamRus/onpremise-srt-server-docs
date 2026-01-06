@@ -30,6 +30,9 @@ Start here:
 
 ## Full manuals
 
+### Videos (Youtube)
+- [Videos (EN)](manuals/videos/index.md)
+
 ### Markdown (IA-friendly)
 - [Installation (MD)](manuals/md/installation.md)
 - [HowTo (MD)](manuals/md/howto.md)
