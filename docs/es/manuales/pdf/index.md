@@ -9,6 +9,7 @@ Manuales originales en PDF de **OnPremise SRT Server**.
 - [Multi-red / multi-NIC (MULTI-NET_SPA.pdf)](MULTI-NET_SPA.pdf)
 - [API (API_ES.pdf)](API_ES.pdf)
 - [SRT → UDP/RTP para cabeceras de cable (SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)](SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)
+- [Vídeos (ES)](../videos/index.md)
 
 ## Volver
 - [Docs ES (inicio)](../../index.md)
