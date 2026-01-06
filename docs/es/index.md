@@ -31,6 +31,7 @@ Empieza aquí:
 ## Manuales completos
 - [Índice de manuales completos (MD)](manuales/md/index.md)
 - [Carpeta de PDFs](manuales/pdf/)
+- [Vídeos (ES)](manuales/videos/index.md)
 
 ### Markdown (IA-friendly)
 - [Instalación (manual completo, MD)](manuales/md/installacion.md)
@@ -50,5 +51,3 @@ Empieza aquí:
 - [API (PDF)](manuales/pdf/API_ES.pdf)
 - [SRT → UDP/RTP (PDF)](manuales/pdf/SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)
   
-### VIDEOS (Youtube)
-- [Vídeos (ES)](videos.md)
