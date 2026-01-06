@@ -1,14 +1,15 @@
-# Manuales completos (Markdown)
+# Manuales completos (Markdown) — ES
 
-Estos documentos son conversiones directas de los manuales PDF a **Markdown**, para facilitar su indexación y lectura en GitHub Pages.
-
-## Manuales (ES)
+Versión en Markdown (más fácil de indexar y buscar) de los manuales completos de **OnPremise SRT Server**.
 
 - [Instalación](installacion.md)
-- [HOWTO](howto.md)
+- [HowTo](howto.md)
 - [Características](features.md)
-- [Ejemplos de hardware](hardware.md)
+- [Hardware](hardware.md)
 - [Multi-red / multi-NIC](multi-net.md)
 - [API REST](api-rest.md)
 - [SRT → UDP/RTP para cabeceras de cable](srt-to-udp-rtp-cable-headends.md)
 
+## Volver
+- [Docs ES (inicio)](../../index.md)
+- [Docs (selector de idioma)](../../../index.md)
