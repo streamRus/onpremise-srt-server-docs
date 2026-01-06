@@ -4,7 +4,7 @@ Start here:
 
 ## Getting started
 - [Overview](overview.md)
-- [Installation (ISO)](install.md)
+- [Installation (short guide / ISO)](install.md)
 - [Quickstart](quickstart.md)
 
 ## Core topics
@@ -28,11 +28,22 @@ Start here:
 - [Troubleshooting](troubleshooting.md)
 - [FAQ](faq.md)
 
-## PDF manuals
-- [Installation (PDF)](../../pdf/en/INSTALL_ENG.pdf)
-- [HowTo (PDF)](../../pdf/en/HOWTO_ENG.pdf)
-- [Features (PDF)](../../pdf/en/FEATURES_ENG.pdf)
-- [Hardware (PDF)](../../pdf/en/HARDWARE_ENG.pdf)
-- [Multi-network (PDF)](../../pdf/en/MULTI-NET_ENG.pdf)
-- [API (PDF)](../../pdf/en/API_EN.pdf)
-- [SRT → UDP/RTP for cable headends (PDF)](../../pdf/en/SRT_to_UDP-RTP_for_cable_headends_ENG.pdf)
+## Full manuals
+
+### Markdown (IA-friendly)
+- [Installation (MD)](manuales/md/installation.md)
+- [HowTo (MD)](manuales/md/howto.md)
+- [Features (MD)](manuales/md/features.md)
+- [Hardware (MD)](manuales/md/hardware.md)
+- [Multi-network (MD)](manuales/md/multi-net.md)
+- [REST API (MD)](manuales/md/api-rest.md)
+- [SRT → UDP/RTP for cable headends (MD)](manuales/md/srt-to-udp-rtp-cable-headends.md)
+
+### PDF (original)
+- [Installation (PDF)](manuales/pdf/INSTALL_ENG.pdf)
+- [HowTo (PDF)](manuales/pdf/HOWTO_ENG.pdf)
+- [Features (PDF)](manuales/pdf/FEATURES_ENG.pdf)
+- [Hardware (PDF)](manuales/pdf/HARDWARE_ENG.pdf)
+- [Multi-network (PDF)](manuales/pdf/MULTI-NET_ENG.pdf)
+- [API (PDF)](manuales/pdf/API_EN.pdf)
+- [SRT → UDP/RTP for cable headends (PDF)](manuales/pdf/SRT_to_UDP-RTP_for_cable_headends_ENG.pdf)
