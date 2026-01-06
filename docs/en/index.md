@@ -45,5 +45,5 @@ Start here:
 - [Features (PDF)](manuals/pdf/FEATURES_ENG.pdf)
 - [Hardware (PDF)](manuals/pdf/HARDWARE_ENG.pdf)
 - [Multi-network (PDF)](manuals/pdf/MULTI-NET_ENG.pdf)
-- [API (PDF)](manuals/pdf/API_ENG.pdf)
+- [API (PDF)](manuals/pdf/API_EN.pdf)
 - [SRT → UDP/RTP for cable headends (PDF)](manuals/pdf/SRT_to_UDP-RTP_for_cable_headends_ENG.pdf)
