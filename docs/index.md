@@ -10,6 +10,12 @@
 
 ---
 
+## Videos (YouTube)
+- 🇬🇧 [Videos (EN)](en/manuals/videos/index.md)
+- 🇪🇸 [Vídeos (ES)](es/manuales/videos/index.md)
+
+---
+
 ## Full manuals (Markdown, IA-friendly)
 ### English (MD)
 - [Installation (MD)](en/manuals/md/installation.md)
