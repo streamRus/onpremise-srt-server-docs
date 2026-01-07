@@ -1,4 +1,6 @@
 # Full manuals (Markdown) — EN
+> Official website: https://streamrus.com/  
+> Public documentation (this repository). The software is proprietary and distributed separately.
 
 These are the complete “IA-friendly” Markdown exports of the original PDF manuals.
 
@@ -17,3 +19,9 @@ If you prefer the original PDF versions:
 
 ## Back
 - [Back to English docs home](../../index.md)
+
+---
+
+## More information
+Official website: https://streamrus.com/
+
