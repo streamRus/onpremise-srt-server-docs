@@ -1,4 +1,6 @@
 # Manuales completos (Markdown) — ES
+> Web oficial: https://streamrus.com/  
+> Documentación pública (este repositorio). El software es propietario y se distribuye aparte.
 
 Versión en Markdown (más fácil de indexar y buscar) de los manuales completos de **OnPremise SRT Server**.
 
@@ -14,3 +16,9 @@ Versión en Markdown (más fácil de indexar y buscar) de los manuales completos
 ## Volver
 - [Docs ES (inicio)](../../index.md)
 - [Docs (selector de idioma)](../../../index.md)
+
+---
+
+## Más información
+Web oficial: https://streamrus.com/
+
