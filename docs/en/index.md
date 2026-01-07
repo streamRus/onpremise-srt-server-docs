@@ -30,7 +30,7 @@ Start here:
 
 ## Full manuals
 
-### Videos (Youtube)
+### Videos (YouTube)
 - [Videos (EN)](manuals/videos/index.md)
 
 ### Markdown (IA-friendly)
