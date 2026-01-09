@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Root -->
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/</loc></url>
-
-  <!-- Docs root (language selector) -->
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/docs/</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/docs/index.html</loc></url>
+  <url>
+    <loc>https://streamrus.github.io/onpremise-srt-server-docs/</loc>
+  </url>
 
   <!-- EN (short docs) -->
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/index.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/overview.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/install.html</loc></url>
@@ -43,7 +40,6 @@
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/md/srt-to-udp-rtp-cable-headends.html</loc></url>
 
   <!-- ES (short docs) -->
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/index.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/overview.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/install.html</loc></url>
