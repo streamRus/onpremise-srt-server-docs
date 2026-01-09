@@ -2,9 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Root -->
-  <url>
-    <loc>https://streamrus.github.io/onpremise-srt-server-docs/</loc>
-  </url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/</loc></url>
 
   <!-- EN (short docs) -->
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/index.html</loc></url>
@@ -71,22 +69,5 @@
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/md/multi-net.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/md/api-rest.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/md/srt-to-udp-rtp-cable-headends.html</loc></url>
-
-  <!-- PDFs (optional but fine) -->
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/INSTALL_ENG.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/HOWTO_ENG.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/FEATURES_ENG.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/HARDWARE_ENG.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/MULTI-NET_ENG.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/API_EN.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/SRT_to_UDP-RTP_for_cable_headends_ENG.pdf</loc></url>
-
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/pdf/INSTALL_SPA.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/pdf/HOWTO_SPA.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/pdf/FEATURES_SPA.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/pdf/HARDWARE_SPA.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/pdf/MULTI-NET_SPA.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/pdf/API_ES.pdf</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/pdf/SRT_to_UDP-RTP_for_cable_headends_SPA.pdf</loc></url>
 
 </urlset>
