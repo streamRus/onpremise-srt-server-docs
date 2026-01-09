@@ -4,6 +4,10 @@
   <!-- Root -->
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/</loc></url>
 
+  <!-- Docs root (language selector) -->
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/docs/</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/docs/index.html</loc></url>
+
   <!-- EN (short docs) -->
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/index.html</loc></url>
