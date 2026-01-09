@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Root -->
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/</loc></url>
+
+  <!-- Language landing pages -->
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/</loc></url>
 
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/index.html</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/index.html</loc></url>
+  <!-- EN key pages -->
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/overview</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/install</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/quickstart</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/srt-basics</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/udp-multicast</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/headend-srt-to-udp-rtp</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/multi-net</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/api</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/operations</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/troubleshooting</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/faq</loc></url>
 
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/index.md</loc></url>
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/index.md</loc></url>
+  <!-- ES key pages -->
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/overview</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/install</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/quickstart</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/srt-basics</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/udp-multicast</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/headend-srt-to-udp-rtp</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/multi-net</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/api</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/operations</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/troubleshooting</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/faq</loc></url>
 
-  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/docs/</loc></url>
+  <!-- Full manuals indexes -->
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/</loc></url>
 </urlset>
