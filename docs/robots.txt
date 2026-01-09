@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://streamrus.github.io/onpremise-srt-server-docs/sitemap.xml
