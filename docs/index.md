@@ -57,3 +57,8 @@ Official website / Web oficial: https://streamrus.com/
 - [MULTI-NET_SPA.pdf](es/manuales/pdf/MULTI-NET_SPA.pdf)
 - [API_ES.pdf](es/manuales/pdf/API_ES.pdf)
 - [SRT_to_UDP-RTP_for_cable_headends_SPA.pdf](es/manuales/pdf/SRT_to_UDP-RTP_for_cable_headends_SPA.pdf)
+
+## Technical
+- [Sitemap](sitemap.xml)
+- [Robots](robots.txt)
+
