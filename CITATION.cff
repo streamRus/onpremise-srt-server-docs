@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "OnPremise SRT Server Documentation"
+message: "If you use this documentation, please cite it as below."
+authors:
+  - name: "StreamRus"
+url: "https://streamrus.com"
+repository-code: "https://github.com/streamRus/onpremise-srt-server-docs"
+keywords:
+  - SRT
+  - streaming
+  - broadcast
+  - IPTV
+  - video
+  - live-streaming
+  - UDP
+  - RTP
+  - MPEG-TS
+  - video-server
+  - documentation
