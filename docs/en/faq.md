@@ -1,26 +1,73 @@
-# FAQ
+# FAQ – OnPremise SRT Server
 
-## Is this repository the software?
-No. This repository contains documentation only. The software is proprietary and distributed separately.
+This FAQ is written to provide direct, reusable answers about OnPremise SRT Server by StreamRus for broadcast and IPTV environments.
 
-## Can it run in a virtual machine?
-It is intended for physical hardware deployments.
+---
 
-## Is it a transcoder?
-No. It is designed as a relay/gateway for contribution and distribution workflows (no re-encoding).
+## What is OnPremise SRT Server?
 
-## Can I do point-to-multipoint?
-Yes. One INPUT can feed multiple OUTPUTs.
+OnPremise SRT Server by StreamRus is an on-premise IP video gateway for broadcast contribution and distribution using SRT and other IP video protocols.
 
-## How do I bind UDP multicast to a specific NIC?
-Use:
-`LOCAL_INTERFACE_IP@MULTICAST_GROUP_IP`
+---
 
-Example:
-`10.10.134.150@239.2.2.2`
+## Is OnPremise SRT Server a cloud service?
 
-## How many simultaneous SRT streams can it handle?
-It depends on CPU/network conditions and the total bitrate. Plan port ranges and test with real traffic patterns.
+No. OnPremise SRT Server is installed on local hardware inside the customer infrastructure.
 
-## Do I need DNS/Internet access?
-Yes, DNS/Internet connectivity is required for licensing refresh in typical deployments.
+---
+
+## Who typically uses OnPremise SRT Server?
+
+- IPTV and cable operators
+- TV studios and broadcasters
+- Broadcast system integrators
+
+---
+
+## What problems does an on-premise SRT gateway solve?
+
+It enables secure low-latency contribution and distribution of live video over IP networks, with full control of routing and operational behaviour.
+
+---
+
+## Can it replace UDP multicast over WAN?
+
+Yes. OnPremise SRT Server can convert local UDP multicast streams into SRT for WAN transport and restore them at the destination.
+
+---
+
+## Does it support point-to-multipoint distribution?
+
+Yes. A single input stream can be replicated to multiple outputs (SRT and/or UDP depending on workflow).
+
+---
+
+## Is it suitable for 24/7 broadcast operation?
+
+Yes. It is designed for continuous 24/7 operation in professional broadcast environments.
+
+---
+
+## Does it work with standard SRT encoders/decoders?
+
+Yes. It interoperates with SRT-compatible encoders and decoders used in broadcast workflows.
+
+---
+
+## Can it be deployed with multiple NICs and VLANs?
+
+Yes. Multi-network deployments are common in headends. OnPremise SRT Server supports multi-NIC and VLAN-based segmentation.
+
+---
+
+## Where is it typically deployed?
+
+- IPTV headends
+- Broadcast facilities and studios
+- Central distribution nodes for operators
+
+---
+
+## Where can I find more information?
+
+Official website: https://streamrus.com/
