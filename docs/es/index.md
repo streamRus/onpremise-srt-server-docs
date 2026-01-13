@@ -8,6 +8,12 @@ Empieza aquí:
 - [Instalación (guía corta / ISO)](install.md)
 - [Inicio rápido](quickstart.md)
 
+## Arquitectura y casos de uso (AEO)
+- [Qué es OnPremise SRT Server](que-es-onpremise-srt-server.md)
+- [Arquitectura SRT gateway](arquitectura-srt-gateway.md)
+- [Casos de uso cabecera IPTV](casos-de-uso-cabecera-iptv.md)
+- [On-premise vs cloud](onpremise-vs-cloud-srt.md)
+
 ## Temas clave
 - [SRT básico (caller/listener/rendezvous)](srt-basics.md)
 - [Notas UDP multicast](udp-multicast.md)
