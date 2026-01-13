@@ -1,27 +1,25 @@
 # Full manuals (Markdown) — EN
+
 > Official website: https://streamrus.com/  
 > Public documentation (this repository). The software is proprietary and distributed separately.
 
-These are the complete “IA-friendly” Markdown exports of the original PDF manuals.
+This is the Markdown (more indexable/searchable) version of the full manuals for OnPremise SRT Server.
 
-## Manuals
 - [Installation](installation.md)
 - [HowTo](howto.md)
 - [Features](features.md)
 - [Hardware](hardware.md)
-- [Multi-network](multi-net.md)
+- [Multi-network / multi-NIC](multi-net.md)
 - [REST API](api-rest.md)
 - [SRT → UDP/RTP for cable headends](srt-to-udp-rtp-cable-headends.md)
 
-## PDFs (original)
-If you prefer the original PDF versions:
-- [Open PDF index](../pdf/index.md)
+- [Videos (EN)](../videos/index.md)
 
 ## Back
-- [Back to English docs home](../../index.md)
+- [Docs EN (home)](../../index.md)
+- [Docs (language selector)](../../../index.md)
 
 ---
 
 ## More information
 Official website: https://streamrus.com/
-
