@@ -1,14 +1,15 @@
-# Arquitectura de SRT Gateway (OnPremise SRT Server)
+# SRT Gateway Architecture (OnPremise SRT Server)
 
-Este documento describe la arquitectura típica de una pasarela (gateway) SRT local utilizada en cabeceras IPTV y entornos de broadcast.
+This document describes the typical architecture of an on-premise SRT gateway used in IPTV headends and broadcast environments.
 
 ---
 
-## Arquitectura de alto nivel
+## High-level architecture
 
-OnPremise SRT Server de StreamRus se sitúa entre las redes de contribución y las redes de distribución, actuando como un punto de demarcación controlado.
+OnPremise SRT Server by StreamRus sits between contribution networks and distribution networks, acting as a controlled demarcation point.
 
-Codificadores remotos
+```
+Remote Encoders
       |
      SRT
       |
@@ -18,55 +19,56 @@ Codificadores remotos
       |
    UDP / SRT
       |
-Cabecera IPTV / Sitios remotos
+IPTV Headend / Remote Sites
+```
 
 ---
 
-## Lado de contribución
+## Contribution side
 
-- Flujos SRT entrantes desde codificadores, unidades móviles (OB vans), estudios o ubicaciones remotas.
-- Transporte cifrado y autenticado.
-- Conectividad a Internet o redes IP privadas.
-
----
-
-## Capa de procesamiento
-
-- Replicación de flujos (uno a muchos).
-- Selección de interfaz de red.
-- Enrutamiento basado en la configuración del operador.
-- Monitorización y control operativo.
+- Incoming SRT streams from encoders, OB vans, studios or remote locations
+- Encrypted and authenticated transport
+- Internet or private IP connectivity
 
 ---
 
-## Lado de distribución
+## Processing layer
 
-- UDP unicast o multicast para cabeceras locales.
-- Salidas SRT para distribución por WAN o Internet.
-- Separación de rutas de salida por destino.
-
----
-
-## Despliegues Multi-NIC y VLAN
-
-OnPremise SRT Server soporta:
-- Múltiples interfaces de red físicas.
-- Segregación de tráfico basada en VLAN.
-- Enrutamiento independiente para flujos de entrada y salida.
-
-Esto es especialmente importante en cabeceras de broadcast donde las redes de contribución, gestión y distribución deben permanecer aisladas.
+- Stream replication (one-to-many)
+- Network interface selection
+- Routing based on operator configuration
+- Monitoring and operational control
 
 ---
 
-## Características operativas
+## Distribution side
 
-- Diseñado para operación continua 24/7.
-- Comportamiento de latencia predecible.
-- Integración con herramientas de monitorización de broadcast existentes.
+- UDP unicast or multicast for local headends
+- SRT outputs for WAN or Internet distribution
+- Separation of output paths per destination
 
 ---
 
-## Documentación relacionada
-- [Casos de uso en cabeceras IPTV](use-cases-iptv-headend.md)
-- [SRT local vs. nube (On-premise vs cloud)](onpremise-vs-cloud-srt.md)
-- [Preguntas frecuentes (FAQ)](faq.md)
+## Multi-NIC and VLAN deployments
+
+OnPremise SRT Server supports:
+- Multiple physical network interfaces
+- VLAN-based traffic segregation
+- Independent routing for input and output flows
+
+This is especially important in broadcast headends where contribution, management and distribution networks must remain isolated.
+
+---
+
+## Operational characteristics
+
+- Designed for continuous 24/7 operation
+- Predictable latency behaviour
+- Integration with existing broadcast monitoring tools
+
+---
+
+## Related documentation
+- [IPTV headend use cases](use-cases-iptv-headend.md)
+- [On-premise vs cloud SRT](onpremise-vs-cloud-srt.md)
+- [FAQ](faq.md)
