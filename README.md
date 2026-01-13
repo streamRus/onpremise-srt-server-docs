@@ -1,5 +1,9 @@
 # OnPremise SRT Server — Documentation
 
+![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)
+![Languages](https://img.shields.io/badge/languages-EN%20|%20ES-green)
+![Topics](https://img.shields.io/github/topics/streamRus/onpremise-srt-server-docs)
+
 Official website: https://streamrus.com/
 
 This repository contains **documentation only** for **OnPremise SRT Server**.
