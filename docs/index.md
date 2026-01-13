@@ -6,8 +6,9 @@ Official website / Web oficial: https://streamrus.com/
 - 🇪🇸 **Documentación en español**: [Empieza aquí](es/index.md)
 
 ## Quick links
-- English: [Quickstart](en/quickstart.md) · [Installation](en/install.md) · [Troubleshooting](en/troubleshooting.md)
-- Español: [Inicio rápido](es/quickstart.md) · [Instalación](es/install.md) · [Troubleshooting](es/troubleshooting.md)
+- English: [Start here](en/index.md) · [What is OnPremise SRT Server?](en/what-is-onpremise-srt-server.md) · [SRT Gateway Architecture](en/srt-gateway-architecture.md) · [On-premise vs Cloud](en/onpremise-vs-cloud-srt.md) · [FAQ](en/faq.md)
+- Español: [Empieza aquí](es/index.md) · [Qué es OnPremise SRT Server](es/que-es-onpremise-srt-server.md) · [Arquitectura SRT gateway](es/arquitectura-srt-gateway.md) · [On-premise vs cloud](es/onpremise-vs-cloud-srt.md) · [FAQ](es/faq.md)
+
 
 ---
 
