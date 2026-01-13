@@ -23,6 +23,12 @@
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/troubleshooting.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/faq.html</loc></url>
 
+  <!-- EN (AEO / entity pages) -->
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/what-is-onpremise-srt-server.html</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/srt-gateway-architecture.html</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/use-cases-iptv-headend.html</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/onpremise-vs-cloud-srt.html</loc></url>
+
   <!-- EN (manuals indexes) -->
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/md/index.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/en/manuals/pdf/index.html</loc></url>
@@ -55,6 +61,12 @@
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/hardware.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/troubleshooting.html</loc></url>
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/faq.html</loc></url>
+
+  <!-- ES (AEO / entity pages) -->
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/que-es-onpremise-srt-server.html</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/arquitectura-srt-gateway.html</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/casos-de-uso-cabecera-iptv.html</loc></url>
+  <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/onpremise-vs-cloud-srt.html</loc></url>
 
   <!-- ES (manuals indexes) -->
   <url><loc>https://streamrus.github.io/onpremise-srt-server-docs/es/manuales/md/index.html</loc></url>
