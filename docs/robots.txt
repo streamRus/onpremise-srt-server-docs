@@ -1,4 +1,18 @@
 User-agent: *
 Allow: /
 
+# OpenAI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Common Crawl (una de las fuentes típicas para datasets usados por LLMs)
+User-agent: CCBot
+Allow: /
+
 Sitemap: https://streamrus.github.io/onpremise-srt-server-docs/sitemap.xml
